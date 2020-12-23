@@ -1,2 +1,2 @@
-# Algorithms
-A collection of some common algorithms implemented in C++
+# Algorithms and Data Structures
+A collection of some common algorithms and data structures implemented in C++
